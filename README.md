@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @R3DActual
+- 👀 I’m interested in Node.js, C++, PHP
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me twistedactual@gmai.com

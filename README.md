@@ -6,9 +6,10 @@
 
 ### Languages and Tools:
 
-<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </a>
-<a href="https://angularjs.org/" target="_blank"> <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </a>
-<a href="https://ionicframework.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </a>
+<a href="https://angularjs.org/" target="_blank"> <img align="left" alt="AngularJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </a>
+<a href="https://ionicframework.com/" target="_blank"> <img align="left" alt="IonicFramework" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/> </a>
+<a> <img align="left" alt="Java" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)"/> </a>
 
 <br/>
 <br/>

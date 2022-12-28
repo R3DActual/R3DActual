@@ -1,7 +1,8 @@
 ## Hey, I'm R3D!
 
 ### 📓 Projects
-- PartyCrew Mobile App
+- PartyCrew Mobile App (Private)
+- Tree Respawning (Minecraft Spigot Plugin)
 <br/>
 
 ### Languages and Tools:

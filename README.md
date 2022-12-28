@@ -2,7 +2,7 @@
 
 ### 📓 Projects
 - PartyCrew Mobile App (Private)
-- Tree Respawning (Minecraft Spigot Plugin)
+- Lava Survival - Remake of the old Minecraft Class Gamemode - Spigot Plugin (Private)
 <br/>
 
 ### Languages and Tools:

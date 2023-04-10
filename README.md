@@ -2,7 +2,6 @@
 
 ### 📓 Projects
 - PartyCrew Mobile App (Private)
-- Lava Survival - Remake of the old Minecraft Class Gamemode - Spigot Plugin (Private)
 <br/>
 
 ### Languages and Tools:

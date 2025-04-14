@@ -1,7 +1,4 @@
 ## Hey, I'm R3D!
-
-### 📓 Projects
-- PartyCrew Mobile App (Private)
 <br/>
 
 ### Languages and Tools:

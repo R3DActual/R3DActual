@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=R3D&fontSize=80&fontAlignY=35&desc=Full%20Stack%20%26%20Game%20Reverse%20Engineer&descAlignY=51&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=R3D&fontSize=80&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Game%20Reverse%20Engineer&descAlignY=51&theme=onedark" alt="Header" />
 </div>
 
 <br/>
@@ -50,13 +50,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R3DActual&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R3DActual&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3DActual&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3DActual&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -64,7 +64,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3DActual&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3DActual&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R3DActual&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=R3DActual&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -80,7 +80,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R3DActual&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R3DActual&amp;theme=tokyonight&amp;hide_border=true&amp;custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -99,7 +99,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R3DActual&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=R3DActual&amp;style=for-the-badge&amp;color=blue" alt="Profile Views" />
 </div>
 
 <br/>

@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/R3DActual/R3DActual/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=R3D&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50" alt="Header" />
 </div>
 
 <br/>

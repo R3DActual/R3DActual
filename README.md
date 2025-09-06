@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+R3D+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+R3D+%F0%9F%91%8B;Full+Stack+Developer;Cheat+Developer;Game+Reverse+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=R3D&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=R3D&fontSize=80&fontAlignY=35&desc=Full%20Stack%20%26%20Game%20Reverse%20Engineer&descAlignY=51&descAlign=50" alt="Header" />
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 I'm learning **new technologies and frameworks**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, APIs, or anything tech!**
-- ⚡ Fun fact: I love solving complex problems and building cool stuff
+- 🔭 I'm currently working on **exciting full-stack projects and game reverse engineering**
+- 🌱 I'm learning **new technologies, frameworks, and reverse engineering techniques**
+- 👯 I'm looking to collaborate on **open source projects and game analysis**
+- 💬 Ask me about **web development, APIs, reverse engineering, or anything tech!**
+- ⚡ Fun fact: I love solving complex problems, building cool stuff, and reverse engineering games
 
 <br/>
 

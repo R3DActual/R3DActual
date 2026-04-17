@@ -73,7 +73,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R3DActual&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=R3DActual&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
